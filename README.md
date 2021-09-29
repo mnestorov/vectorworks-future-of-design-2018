@@ -1,2 +1,3 @@
-# vectorworks-fod-2018
- HTML landing page for Future of Design 2018
+# Vectorworks - Future of Design 2018
+
+Simple HTML 5 landing page for the event Vectorworks - Future of Design 2018.
